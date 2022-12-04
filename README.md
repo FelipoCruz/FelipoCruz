@@ -4,7 +4,7 @@ I’m @FelipoCruz
 - 👀 I’m interested in full-stack development
 - 🌱 I have experience with:
   - React.js
-  - Node.js, Express, Koa
+  - Node.js, Express, Koa, Next.js
   - MySQL and MongoDB
   - Firebase & Supabase
   - Creation and implementation of RESTful API's
