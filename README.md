@@ -3,7 +3,9 @@
 I’m @FelipoCruz
 - 👀 I’m interested in full-stack development
 - 🌱 I have experience with:
-  - Languages: JavaScript and TypeScript
-  - Front End: React, Redux, Angular, Next.js, CSS, SCSS, HTML
-  - Back End: Node.js, Express.js, Koa, PostgreSQL, FireStore DB, MongoDB, Prisma ORM,  Digital Ocean (Ubuntu Cloud Servers + Nginx), Firebase, Vercel, JWT Authentication, SupaBase.
+  -Front End: React.js, Redux, Next.js, TypeScript
+  -Back-End: Node.js, Express, Koa, TypeScript, Next.js
+  -DB: PostgreSQL, MySQL, MongoDB, Firebase Firestore, Supabase, Prisma ORM.
+  -Deployment: Cloud Servers (Digital Ocean droplets Ubuntu + Nginx), Firebase, Vercel.
+  -Creation and implementation of RESTful API's
 - 📫 You can reach me at mfel.cruz@gmail.com
